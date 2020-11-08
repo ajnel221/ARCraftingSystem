@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary 1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5545053875518721117
+  m_GuidHigh: 6228814697598725537
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5357013134898742343
+      m_GuidHigh: 7251302305865516477
+    m_SerializedTextureGuid:
+      m_GuidLow: 17524722421684270428
+      m_GuidHigh: 15615617287774454091
+    m_Size: {x: 0.05, y: 0.08977273}
+    m_SpecifySize: 1
+    m_Name: IronIngot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4889893048717806118
+      m_GuidHigh: 17248738721497896620
+    m_SerializedTextureGuid:
+      m_GuidLow: 1766730246954950412
+      m_GuidHigh: 5052566784760690200
+    m_Size: {x: 0.05, y: 0.088202246}
+    m_SpecifySize: 1
+    m_Name: GoldIngot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5673720850449584628
+      m_GuidHigh: 17182319131624890258
+    m_SerializedTextureGuid:
+      m_GuidLow: 16277137739969338055
+      m_GuidHigh: 8987439755012343738
+    m_Size: {x: 0.05, y: 0.0898077}
+    m_SpecifySize: 1
+    m_Name: BlackIngot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5339371830484723619
+      m_GuidHigh: 4978095592057887917
+    m_SerializedTextureGuid:
+      m_GuidLow: 13894740651009261712
+      m_GuidHigh: 3159395088364697817
+    m_Size: {x: 0.05, y: 0.08965845}
+    m_SpecifySize: 1
+    m_Name: BlueIngot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4616822485866932855
+      m_GuidHigh: 12905678338263629972
+    m_SerializedTextureGuid:
+      m_GuidLow: 6450455114782065372
+      m_GuidHigh: 1125673119799782907
+    m_Size: {x: 0.05, y: 0.09038095}
+    m_SpecifySize: 1
+    m_Name: GreenIngot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5569921984591320930
+      m_GuidHigh: 6672318956561033873
+    m_SerializedTextureGuid:
+      m_GuidLow: 10742311844910456476
+      m_GuidHigh: 12044419525945354682
+    m_Size: {x: 0.05, y: 0.08919173}
+    m_SpecifySize: 1
+    m_Name: RedIngot
+    m_Texture: {fileID: 0}
